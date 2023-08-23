@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T05:18:34.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="P06zx5XdpHC7-hRWNhd6" version="21.6.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-23T05:20:38.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="v_3Y-xxGY-baBp3QeGF3" version="21.6.7" type="github" pages="2">
   <diagram name="BigPicture" id="Hz4ldIOCBqMev7hy9dnB">
     <mxGraphModel dx="2944" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="130" y="980" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Vd8KvDlKlo_8RfFqiXwd-10" value="informaciónSubastas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="390" width="120" height="80" as="geometry" />
+          <mxGeometry x="640" y="385" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Vd8KvDlKlo_8RfFqiXwd-12" value="Servicio al Cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-980" y="625" width="120" height="80" as="geometry" />
@@ -173,6 +173,12 @@
         </mxCell>
         <mxCell id="8-nWwkaMAxIloeaEUmhK-73" value="cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-470" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8-nWwkaMAxIloeaEUmhK-90" value="&lt;div&gt;A&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;L&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="825" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8-nWwkaMAxIloeaEUmhK-91" value="&lt;div&gt;A&lt;/div&gt;&lt;div&gt;C&lt;/div&gt;&lt;div&gt;L&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="630" width="40" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
