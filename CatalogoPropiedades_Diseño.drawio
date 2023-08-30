@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T19:42:55.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="MwRYOtIzTX7lu4KOvRmN" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-30T04:26:56.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="cXnYrw8KBHSztYaVUgyF" version="21.7.0" type="github" pages="3">
   <diagram name="BigPicture" id="Hz4ldIOCBqMev7hy9dnB">
     <mxGraphModel dx="2704" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -494,6 +494,14 @@
             <mxPoint x="400" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TR0Y3RovyGSSf2rGPdgl" name="ContextMapping">
+    <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
